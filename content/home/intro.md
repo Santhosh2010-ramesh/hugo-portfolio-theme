@@ -1,24 +1,25 @@
 ---
-# Use the Intro widget of the Blog template
-widget: about.avatar
-
-# This file represents a page section.
-headless: true
-
-# Order that this section will appear in.
-weight: 10
-
+widget: AInalyst
+active: true
 author: admin
-#design:
-#  background:
-#    color: '#090a0b'
-#    text_color_light: true
-#    video:
-#      path:  # enter filename of a video in /assets/media
-#  css_class: fullscreen
+widget_id: "Portfolio "
+headless: true
+weight: 10
+title: Senior Analyst
+design:
+  background:
+    image: 111717114083.jpg
+    image_darken: 1
+    color: "#0bbab7"
+    gradient_start: "#6a1c9a"
+    text_color_light: true
 ---
+👋 Hi, Geeks! I'm **Santhosh Ramesh**, a machine learning Enthusiast.
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+<!--StartFragment-->
+
+Data Science integrated learner who is experienced in training with data handling techniques using python libraries and connecting with cloud and SQL Database. I have a good grasp of probability and stats with data visualization. Proficient in Machine Learning, and NLP skills for multiple applications.
+
+<!--EndFragment-->
 
 Check out my [resumé](/about/) and portfolio below 😍
